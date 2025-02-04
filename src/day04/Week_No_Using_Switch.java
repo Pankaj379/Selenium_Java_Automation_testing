@@ -5,7 +5,7 @@ public class Week_No_Using_Switch {
 	public static void main(String[] args) {
 		// Note: Switch statement reduce code than else if condition.
 		
-		int weekNo=4;
+		int weekNo=8;
 		
 		switch(weekNo)
 		{
