@@ -3,7 +3,7 @@ package day05;
 public class While_VS_DoWhile {
 
 	public static void main(String[] args) {
-		// While vs Do while.
+		// While vs Do while statements.
 
 		// While:
 		System.out.println("While Loop:");
