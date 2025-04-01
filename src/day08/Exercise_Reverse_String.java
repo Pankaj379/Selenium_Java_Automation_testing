@@ -45,6 +45,7 @@ public class Exercise_Reverse_String {
 
 
 		// Note: In code lang: Mutable: We Can Change and Immutable: means which we can’t change.
+		// For interview they will expect the login not the shortcut method like string Builder/buffer method of reverse().
 
 
 
