@@ -23,7 +23,10 @@ public class Static_keyword {
 		m2();
 	}
 
-	public static void main(String[] args) {
+	
+		//3) Non-static methods can access everything directly without restriction.
+	//	sk.m3();
+//public static void main(String[] args) {
 
 		//System.out.println(x);
 		//m1(); 
@@ -33,15 +36,12 @@ public class Static_keyword {
 		// m2(); // not a static method.
 
 		// 2) Non static stuff is accessible only though object.
-		Static_keyword sk = new Static_keyword();
+	//	Static_keyword sk = new Static_keyword();
 		//System.out.println(sk.y);
 		//sk.m2();
 		
-		//3) Non-static methods can access everything directly without restriction.
-		sk.m3();
 
 
-
-	}
+//	}
 
 }
