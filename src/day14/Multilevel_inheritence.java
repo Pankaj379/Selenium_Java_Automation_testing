@@ -46,8 +46,6 @@ public class Multilevel_inheritence {
 		cObj.disp_C();
 
 
-
-
 	}
 
 }
