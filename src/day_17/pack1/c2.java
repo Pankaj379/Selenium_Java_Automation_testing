@@ -9,8 +9,18 @@ public class c2 {
 		 System.out.println(val.x);
 		 val.m1();
 		
-		// System.out.println(val.y); shows error.
-	 	// val.m2(); shows error.
+	//	 System.out.println(val.y); //shows error.
+	//  	 val.m2(); //shows error.
+		 
+	//	System.out.println(val.z);
+	//	val.m3();// Protected.
+		 
+		 System.out.println(val.a);
+		 val.m4();
+		 
+		 
+		 
+		 
 		
 		
 
