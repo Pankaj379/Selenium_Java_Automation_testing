@@ -43,13 +43,6 @@ public class Type_Casting_Object1 {
 		ch.m1();
 		System.out.println(ch.id);
 		ch.m2();
-	
-		
-		
-		
-		
-		
-		
 
 	}
 
